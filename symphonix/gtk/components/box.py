@@ -33,4 +33,3 @@ def Box(
 
 Column = partial(Box, orientation=Orientation.VERTICAL)
 Row = partial(Box, orientation=Orientation.HORIZONTAL)
-Row = partial(Box, orientation=Orientation.HORIZONTAL)
